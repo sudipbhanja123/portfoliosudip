@@ -48,7 +48,7 @@ export default function Hero() {
             transition: { duration: 0.4, delay: 0.2 },
           }}
         >
-          <p className="leading-7">
+          <p className="leading-7 text-justify">
             Passionate Full Stack Developer skilled in React, Next.js, and
             Tailwind CSS, with a strong background in web application
             development and a knack for innovative and efficient web solutions.

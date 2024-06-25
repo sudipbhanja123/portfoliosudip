@@ -17,7 +17,7 @@ export default function About() {
           transition: { duration: 0.4 },
         }}
       >
-        <p className="leading-7">
+        <p className="leading-7 text-justify">
           I am Sudip Bhanja, a passionate Full Stack Developer with a strong
           foundation in web application development and frontend technologies.
           My journey into the world of tech began during my education at the
@@ -43,7 +43,7 @@ export default function About() {
           Currently focused on honing my skills in both frontend and backend
           development, I aspire to continue creating innovative and efficient
           web solutions that make a difference. Beyond coding, I enjoy exploring
-          new technologies, playing sports like badminton, and staying inspired
+          new technologies, playing sports like cricket, and staying inspired
           through continuous learning.
         </p>
       </Reveal>
