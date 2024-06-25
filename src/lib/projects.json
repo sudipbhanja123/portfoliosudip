@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Caring Crowd Web Application",
+    "description": "The Crowd Caring App is a powerful web application that harnesses the unity of online communities to make a meaningful impacton the lives of those in need. With a focus on helping needy children, individuals fighting for their lives in hospitals, senior citizens, and animals, the appprovides a convenient and efficient way for donors to contribute to these noble causes.",
+    "type": "Masters's Degree 3rd sem Project",
+    "imageUrl": "/assets/img/crowdcare.png",
+
+    "githubUrl": "https://github.com/sudipbhanja123/Crowd_Care_Web.git",
+    "demoUrl": "https://sudipbhanja123.github.io/Crowd_Care_Web/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Tailwind",
+      "Cashfree Payments payment gateway",
+      "Github",
+      "Google Map Api"
+    ]
+  },
+  {
+    "title": "Flower e-commerce Site",
+    "description": "A Web app Using this web application user can save his/her time and effort sitting at home. User can buy good flower at low price with good discount, can sell own flower, can compare different models or brands, delivery on time that make user happy. This project was build according to Iterative Waterfall Model using .Net Framework, sql server Database and Three Tier Architechture concept.",
+    "type": "BCA Final Year Project",
+    "imageUrl": "/assets/img/flowerproject.png",
+    "githubUrl": "https://github.com/sudipbhanja123/Flower-Project.git",
+
+    "skills": [
+      "Asp .Net",
+      "C-Sharp",
+      "HTML",
+      "CSS",
+      "Tailwind Css",
+      "JavaScript",
+      "SQL SERVER"
+    ]
+  },
+  {
+    "title": "Weather App",
+    "description": "This React-based weather report application allows users to check real-time weather information for various cities through a simple and intuitive interface. Users can enter a city name in the search bar to retrieve current weather details, including temperature, humidity, and wind speed, all displayed with clear visual elements. Leveraging modern web technologies and a sleek design, the application ensures a seamless and user-friendly experience.",
+    "type": "Mini Project",
+    "imageUrl": "/assets/img/weather.png",
+    "githubUrl": "https://github.com/sudipbhanja123/WeatherApp.git",
+    "demoUrl": "",
+    "skills": ["React Js", "Javascript", "Tailwind", "CSS", "Weathermap API"]
+  },
+  {
+    "title": "Wine Shop Management System(Windows Application)",
+    "description": "A Desktop app With the help of this application admin can see stock details of wines and managing it. Except this,admin can see all transactions with dealer and can paid due. They can see list of buy or sell stocks and all other expenses like shop rent, electrical bill etc.",
+    "type": "Mini Project",
+    "imageUrl": "/assets/img/product.png",
+    "githubUrl": "https://github.com/sudipbhanja123/ProductBaseManagementSystem.git",
+    "demoUrl": "",
+    "skills": ["ADO .Net", "C#", "TSQL", "SQL SERVER"]
+  }
+]

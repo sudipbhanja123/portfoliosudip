@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Frontend Developer Intern",
+    "company": "SUSTALLY TECHNOLOGIES PRIVATE LIMITED",
+    "date": "November 2023 - June 2024",
+    "description": "During my internship at Sustally Technologies Private Limited in New Delhi from November 2023 to June 2024, I played a crucial role in advancing their web development initiatives. I focused on enhancing several key pages of the Sustally official website, including the Product page, Teamwall, Alumni, and Advisor pages, by improving user interface design and functionality. Additionally, I developed an efficient employee portal that streamlined internal processes and communication. One of my significant achievements was leading the migration of the entire Sustally website from React.js to Next.js, enhancing performance and scalability. I also contributed to the frontend development of the super admin portal for Sustally's product using Next.js, ensuring it met high standards of usability and functionality. These experiences not only deepened my expertise in frontend technologies but also honed my skills in agile development practices and collaborative teamwork within a corporate setting.",
+    "skills": [
+      "React Js",
+      "Next Js",
+      "Tailwind CSS",
+      "TypeScript",
+      "Javascript",
+      "MUI",
+      "Full Stack Development",
+      "Trello",
+      "Jira",
+      "Github",
+      "GIT",
+      "Airtable"
+    ]
+  }
+]
