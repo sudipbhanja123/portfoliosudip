@@ -9,7 +9,7 @@ import { GeistSans } from "geist/font/sans";
 
 export const metadata: Metadata = {
   title: "Sudip Bhanja",
-  description: "I plan, design, build, test and deploy software",
+  description: "Software Developer",
 };
 
 export default function RootLayout({
