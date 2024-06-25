@@ -21,8 +21,8 @@ export default function About() {
           I am Sudip Bhanja, a passionate Full Stack Developer with a strong
           foundation in web application development and frontend technologies.
           My journey into the world of tech began during my education at the
-          University of California, Berkeley and Vellore Institute of
-          Technology, where I pursued my degrees in BCA and MCA, respectively.
+          Panskura Banamali College and Vellore Institute of Technology, where I
+          pursued my degrees in BCA and MCA, respectively.
           <br />
           <br />
           My fascination with creating impactful digital experiences started
