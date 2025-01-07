@@ -10,8 +10,8 @@ import { Button } from "./ui/button";
 import { AtSign, Github, Linkedin } from "lucide-react";
 import { Reveal } from "./custom/reveal";
 import { TypewriterEffectSmooth } from "./ui/typewriter-effect";
-import me from "@/lib/img/me.png";
-import myphoto from "@/lib/img/sudip1.png";
+// import myphoto from "@/lib/img/sudip1.png";
+import myphoto from "@/lib/img/sbh.png";
 import { Spotlight } from "./ui/Spotlight";
 
 export default function Hero() {
