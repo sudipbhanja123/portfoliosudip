@@ -56,7 +56,7 @@
     "title": "Property Rental Platform",
     "description": "Built a full-stack rental platform with authentication, authorization, and protected routes. Implemented property CRUD, search, bookmarking, and user dashboards using MongoDB. Integrated Cloudinary for media uploads. Developed responsive UI components with Tailwind CSS and optimized user experience with notifications and loaders.",
     "type": "Mini Project",
-    "imageUrl": "/assets/img/propertyProject.png ",
+    "imageUrl": "/assets/img/propertyProject.png",
     "githubUrl": "https://github.com/sudipbhanja123/property-project",
     "demoUrl": "",
     "skills": ["NEXT.JS ", "MongoDB", "Cloudinary", "Tailwind Css"]
