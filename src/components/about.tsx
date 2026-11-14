@@ -18,33 +18,30 @@ export default function About() {
         }}
       >
         <p className="leading-7 text-justify">
-          I am Sudip Bhanja, a passionate Full Stack Developer with a strong
-          foundation in web application development and frontend technologies.
-          My journey into the world of tech began during my education at the
-          Panskura Banamali College and Vellore Institute of Technology, where I
-          pursued my degrees in BCA and MCA, respectively.
+          I am Sudip Bhanja, a Full Stack Developer interested in building
+          useful, reliable web applications. I studied BCA at Panskura Banamali
+          College and MCA at Vellore Institute of Technology, where I built a
+          strong foundation in software development.
           <br />
           <br />
-          My fascination with creating impactful digital experiences started
-          early. From developing custom projects like the Flower e-commerce Site
-          using ASP .NET and Tailwind CSS, to contributing as a Frontend
-          Developer Intern at Sustally Technologies Pvt. Ltd., I have thrived on
-          pushing the boundaries of whats possible in web development.
+          I have worked across frontend and backend development. At Tata
+          Consultancy Services, I contributed to a B2B inventory ordering
+          platform for UK retailers, developing store and admin features with
+          ASP.NET Core MVC and C# and working with SQL Server data. Earlier, as
+          a Frontend Developer Intern at Sustally Technologies, I helped build
+          web experiences and migrate a company website from React to Next.js.
           <br />
           <br />
-          I am adept at a range of technologies, from React and Next.js to
-          frameworks like Tailwind CSS and Bootstrap. My approach combines
-          strong problem-solving skills with a knack for collaborative teamwork,
-          evident in projects like the Caring Crowd Web Application, where I
-          leveraged HTML, CSS, JavaScript, and Tailwind CSS to create a platform
-          benefiting various charitable causes.
+          My toolkit includes React, Next.js, Tailwind CSS, ASP.NET Core MVC,
+          C#, and SQL Server. I enjoy solving problems, working with a team, and
+          turning requirements into practical features. My projects include a
+          Flower e-commerce site and the Caring Crowd web application, a
+          platform supporting charitable causes.
           <br />
           <br />
-          Currently focused on honing my skills in both frontend and backend
-          development, I aspire to continue creating innovative and efficient
-          web solutions that make a difference. Beyond coding, I enjoy exploring
-          new technologies, playing sports like cricket, and staying inspired
-          through continuous learning.
+          I continue to grow across frontend and backend development and aim to
+          create efficient solutions that make a difference. Outside of coding,
+          I enjoy exploring new technologies, playing cricket, and learning.
         </p>
       </Reveal>
     </section>

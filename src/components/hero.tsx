@@ -37,7 +37,7 @@ export default function Hero() {
           }}
         >
           <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50">
-            Software Developer
+            Full Stack Developer
           </h3>
         </Reveal>
         <Reveal
@@ -49,9 +49,9 @@ export default function Hero() {
           }}
         >
           <p className="leading-7 text-justify">
-            Passionate Full Stack Developer skilled in React, Next.js, and
-            Tailwind CSS, with a strong background in web application
-            development and a knack for innovative and efficient web solutions.
+            Full Stack Developer building web applications with React, Next.js,
+            and Tailwind CSS, with professional experience developing business
+            solutions using ASP.NET Core MVC, C#, and SQL Server.
           </p>
         </Reveal>
         <div className="flex gap-4">

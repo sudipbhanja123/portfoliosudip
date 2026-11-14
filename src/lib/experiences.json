@@ -18,5 +18,20 @@
       "GIT",
       "Airtable"
     ]
+  },
+  {
+    "title": "System Engineer",
+    "company": "Tata Consultancy Services",
+    "date": "August 2024 - Present",
+    "description": "Contributed to a B2B Store Inventory Ordering System for UK retail stores, building store-facing and admin-facing features for inventory browsing, cart management, order placement and tracking, and user profiles using ASP.NET Core MVC and C#. Helped replace Excel-based ordering and email coordination with a self-service digital ordering platform. Wrote and optimized SQL Server queries, joins, and database operations across Product, Order, Cart, and User entities. Investigated application issues end to end by analyzing behavior and database records, and worked with the Agile/Scrum team on standups, sprint planning, defect resolution, and Git-based development.",
+    "skills": [
+      "ASP.NET Core MVC",
+      "C#",
+      "SQL Server",
+      "T-SQL",
+      "Agile",
+      "Scrum",
+      "Git"
+    ]
   }
 ]

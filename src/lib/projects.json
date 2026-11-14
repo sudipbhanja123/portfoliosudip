@@ -60,5 +60,21 @@
     "githubUrl": "https://github.com/sudipbhanja123/property-project",
     "demoUrl": "",
     "skills": ["NEXT.JS ", "MongoDB", "Cloudinary", "Tailwind Css"]
+  },
+  {
+    "title": "Bulky Book– E-Commerce Web Application",
+    "description": " Developed a full-stack e-commerce web application using ASP.NET Core MVC (.NET 8). Implemented authentication and role-based authorization using ASP.NET Core Identity. Designed database models using Entity Framework Core Code-First Migrations and implemented the Repository Pattern. Built product catalog, shopping cart, and order management modules. Implemented email notifications and deployed the application on Microsoft Azure",
+    "imageUrl": "/assets/img/bulkybook.png",
+    "githubUrl": "https://github.com/sudipbhanja123/BulkyBook.git",
+    "demoUrl": "",
+    "skills": [
+      "ASP.NET Core MVC",
+      "C#",
+      "Entity Framework Core",
+      "SQL Server",
+      "Tailwind Css",
+      "Microsoft Azure"
+    ]
   }
+
 ]

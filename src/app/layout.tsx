@@ -9,7 +9,8 @@ import { GeistSans } from "geist/font/sans";
 
 export const metadata: Metadata = {
   title: "Sudip Bhanja",
-  description: "Software Developer",
+  description:
+    "Sudip Bhanja is a Full Stack Developer working with React, Next.js, ASP.NET Core MVC, C#, and SQL Server.",
 };
 
 export default function RootLayout({
